@@ -27,7 +27,7 @@ Exemplo: `[São Paulo] Desenvolvedor Mobile na [NOME DA EMPRESA]`
 
 1. Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 3 meses, coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 3 meses e não tiver manutenção, a mesma poderá ser fechada por um moderador do repositório.
 
-2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
+2. Se a vaga está pendente de informação e/ou fora do padrão especificado no [modelo da issue](https://github.com/IonicBrazil/vagas/blob/master/.github/ISSUE_TEMPLATE/template-nova-vaga.md), um dos moderadores ou administradores poderá fechar a issue. Ela pode ser reaberta a qualquer momento, desde que tenha sido devidamente preenchida.
 
 
 ### Como receber atualizações de novas vagas:
